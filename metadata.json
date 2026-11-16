@@ -1,0 +1,6 @@
+{
+  "name": "القرآن الكريم لأبي الحسين",
+  "description": "مصحف متكامل للقراءة والاستماع المتواصل بتجربة روحانية هادئة، يضم الرقية الشرعية والأدعية المختارة وأسماء الله الحسنى مع خصوصية تامة دون أي تتبع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
